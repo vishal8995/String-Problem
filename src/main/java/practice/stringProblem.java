@@ -4,6 +4,8 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+//Yaay !!
+
 public class stringProblem {
 
 	public static void main(String[] args) {
